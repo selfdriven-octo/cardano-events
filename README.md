@@ -1,12 +1,10 @@
 ### A repository of Cardano events data.
 
 ### Status
-- Research & Development
-- Building community team to lead the project
+- Building the community team.
 
 ### Contact Us
-- [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
-- [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
+- [selfdriven.fyi/connect](https://selfdriven.fyi/connect)
 
 ### Resources
 - [GitHub Repo](https://github.com/selfdriven-foundation/cardano-events)
