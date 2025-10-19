@@ -1,7 +1,7 @@
-### A repository of Cardano events data.
-
-### Roadmap
-- Add view of the upand coming events
+## A repository of Cardano events data.
 
 ### Resources
 - [Github Repo Events Data](https://github.com/selfdriven-octo/cardano-events/tree/main/data)
+
+### Roadmap
+- Add a view of the up and coming events.
