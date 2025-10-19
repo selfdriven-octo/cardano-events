@@ -1,10 +1,8 @@
 ### A repository of Cardano events data.
 
 ### Status
-- Building the community team.
-
-### Contact Us
-- [selfdriven.fyi/connect](https://selfdriven.fyi/connect)
+- Collecting initial event data.
+- Building the community team. Interested in helping?
 
 ### Resources
-- [GitHub Repo](https://github.com/selfdriven-foundation/cardano-events)
+- [Github Repo Events Data](https://github.com/selfdriven-octo/cardano-events/tree/main/data)
