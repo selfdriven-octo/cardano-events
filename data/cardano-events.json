@@ -1,10 +1,17 @@
 {
-  "cardano":
-    {
-      "events":
-      {
-        "schema": {},
-        "data": {}
-      }
-    }
+	"cardano": {
+		"events": {
+			"schema": {},
+			"data":
+			[
+				{
+					"name": "Cardano Summit",
+					"url": "https://summit.cardano.org"		
+				},
+				{
+					"name": "NuLuna",
+					"url": "https://nuluna.io"		
+			}]
+		}
+	}
 }

@@ -9,6 +9,6 @@ title: Home
 - Building the community team.
 
 ### Resources
-- [GitHub Repo](https://github.com/selfdriven-foundation/cardano-events)
+- [Github Repo Events Data](https://github.com/selfdriven-octo/cardano-events/tree/main/data)
 
 
