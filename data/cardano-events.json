@@ -6,10 +6,12 @@
 			[
 				{
 					"name": "Cardano Summit",
+					"description": ["Singapore 5/6 Oct 2026."],
 					"url": "https://summit.cardano.org"		
 				},
 				{
 					"name": "NuLuna",
+					"description": ["Celebrating those who dare to create differently."],
 					"url": "https://nuluna.io",
 					"links":
 					[
