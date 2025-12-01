@@ -192,7 +192,7 @@ entityos._util.controller.add(
 							'<div class="card-body p-4 text-left">',
 								'<div class="row">',
 									event._imageHTML,
-									'<div class="col">',
+									'<div class="col text-center">',
 										'<h2 class="fw-bold mb-2" style="color: #e8d5cf;">',
 											'<a class="" href="', event.url, '" target="_blank">', event.name, '</a>',
 										'</h2>',
