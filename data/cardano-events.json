@@ -19,6 +19,16 @@
 						}
 					]
 			}]
+		},
+		"support":
+		{
+			"data":
+			[
+				{
+					"name": "Amplify Cardano",
+					"url": "https://amplifycardano.io"		
+				}
+			]
 		}
 	}
 }

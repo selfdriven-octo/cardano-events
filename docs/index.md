@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+<div id="events-view"></div>
+
 ## A repository of Cardano events data.
 
 ### Resources
