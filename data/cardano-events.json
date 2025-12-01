@@ -5,8 +5,13 @@
 			"data":
 			[
 				{
+					"name": "Rare EVO",
+					"description": ["Las Vegas, Nevada, July 28-31, 2026."],
+					"url": "https://rareevo.io"		
+				},
+				{
 					"name": "Cardano Summit",
-					"description": ["Singapore 5/6 Oct 2026."],
+					"description": ["Singapore, 5/6 Oct 2026."],
 					"url": "https://summit.cardano.org"		
 				},
 				{
