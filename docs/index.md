@@ -9,5 +9,3 @@ title: Home
 - [Events Index Data](https://github.com/selfdriven-octo/cardano-events/tree/main/data) - do a PR to update.
 - [Amplify Cardano](https://amplifycardano.io) - event & marketing support.
 
----
-This site is supported by the [selfdriven.foundation](https://selfdriven.foundation).
